@@ -126,7 +126,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     .navbar-fixed-top {
-        padding: 25px 0;
+        padding: 3vh;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -257,17 +257,7 @@ section.tout {
     z-index: 2;
 }
 
-@media(min-width:767px) {
-		header img.profile-img {
-    max-width: 34vmin;
-    border-radius: 50%;
-    border: 0.4em solid rgba(255, 255, 255, 0.75);
-	}
-	
-    #startups .portfolio-item {
-        margin: 0 0 30px;
-    }
-}
+
 
 .btn-outline {
     margin-top: 15px;
@@ -482,4 +472,15 @@ header img.profile-img {
 
 header .intro-text .name {
     font-size: 2.25em;
+}
+@media(min-width:767px) {
+		header img.profile-img {
+    max-width: 34vmin;
+    border-radius: 50%;
+    border: 0.4em solid rgba(255, 255, 255, 0.75);
+	}
+	
+    #startups .portfolio-item {
+        margin: 0 0 30px;
+    }
 }
