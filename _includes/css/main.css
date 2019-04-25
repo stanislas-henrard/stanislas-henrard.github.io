@@ -173,8 +173,8 @@ header .intro-text .skills {
 
 section {
     padding: 85px 0;
-	   padding-top: 120px;
-        padding-bottom: 120px;
+	   padding-top: 25vh;
+        padding-bottom: 25vh;
 }
 
 section h2 {
@@ -192,14 +192,13 @@ section.tout {
 
 @media(max-width:767px) {
 	
-	header img.profile-img {
-    max-width: 34vmin;
-    border-radius: 50%;
-    border: 0.4em solid rgba(255, 255, 255, 0.75);
-	}
+
 
     section {
-        padding: 60px 0;
+       
+		
+			   padding-top: 15vh;
+        padding-bottom: 15vh;
     }
 
     section.first {
@@ -259,6 +258,12 @@ section.tout {
 }
 
 @media(min-width:767px) {
+		header img.profile-img {
+    max-width: 34vmin;
+    border-radius: 50%;
+    border: 0.4em solid rgba(255, 255, 255, 0.75);
+	}
+	
     #startups .portfolio-item {
         margin: 0 0 30px;
     }
@@ -470,7 +475,7 @@ footer .footer-below {
 }
 
 header img.profile-img {
-    max-width: 50vmin;
+    max-width: 46vmin;
     border-radius: 50%;
     border: 0.4em solid rgba(255, 255, 255, 0.75);
 }
