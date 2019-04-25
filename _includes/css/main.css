@@ -475,9 +475,8 @@ header .intro-text .name {
 }
 @media(min-width:767px) {
 		header img.profile-img {
-    max-width: 34vmin;
-    border-radius: 50%;
-    border: 0.4em solid rgba(255, 255, 255, 0.75);
+    max-width: 34vmin !important;
+
 	}
 	
     #startups .portfolio-item {
