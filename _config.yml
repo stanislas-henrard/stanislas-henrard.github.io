@@ -1,5 +1,5 @@
 ---
-title: Inanc.Github.Io
+title: Stanislas-henrard.Github.io
 timezone: UTC
 collections:
   posts:
@@ -8,18 +8,16 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: İnanç Çakıl
-email: inanc.cakil@gmail.com
+name: Stanislas Henrard
+email: stan.henrard@gmail.com
 keywords: Software Engineer
-skills: Hi. I’m inanç, a software developer from Ankara, Turkey
+skills: Hi. I’m Stan, a creative technologist from Paris, France
 baseurl: 
 social:
 - title: linkedin
-  url: https://www.linkedin.com/in/inanccakil/
+  url: https://www.linkedin.com/in/stanislas-henrard/
 - title: github
-  url: https://github.com/inanc
-- title: twitter
-  url: https://twitter.com/inanccakil
+  url: https://github.com/stanislas.henrard
 google_verify: 
 bing_verify: 
 color:
